@@ -1,0 +1,22 @@
+{
+  "name": "squish-life",
+  "version": "1.0.0",
+  "description": "take care of squish! he needs you...",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medhatnar/squish_life.git"
+  },
+  "keywords": [
+    "squish"
+  ],
+  "author": "tyson and gato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medhatnar/squish_life/issues"
+  },
+  "homepage": "https://github.com/medhatnar/squish_life#readme"
+}
